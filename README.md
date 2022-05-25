@@ -43,9 +43,8 @@ Here are some ideas to get you started:
 ## Connect with Me 
 
 
-- <a href="https://tjoab.github.io/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Personal_Site_And_Portfolio-DF1F1F?style=flat&logo=google-chrome&logoColor=ffffff"></a>
-- <a href="https://www.linkedin.com/in/tj-ayoub" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=ffffff"></a>
-- <a href="https://www.instagram.com/tjoab/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-c0007a?style=flat&logo=instagram&logoColor=ffffff"></a>
-- <a href="mailto:tj.ayoub@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-34a853?style=flat&logo=gmail&logoColor=ffffff"></a>
+- <a href="https://kishb123.github.io/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Personal_Site_And_Portfolio-DF1F1F?style=flat&logo=google-chrome&logoColor=ffffff"></a>
+- <a href="[https://www.linkedin.com/in/tj-ayoub](https://www.linkedin.com/in/kishore-basu-08a690181/)" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=ffffff"></a>
+- <a href="mailto:kishore.basu@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-34a853?style=flat&logo=gmail&logoColor=ffffff"></a>
 
 
