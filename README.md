@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 
 
 ## Technical Skills
+- 💻 &nbsp;
   ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=ffffff)
   ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat&logo=java&logoColor=ffffff)
   ![R (Statistics)](https://img.shields.io/badge/-R-878787?style=flat&logo=R&logoColor=276DC3)
@@ -37,9 +38,14 @@ Here are some ideas to get you started:
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-003D8F?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![RStudio](https://img.shields.io/badge/-RStudio-00597C?style=flat&logo=rstudio)
-- 🖥 &nbsp;
-  ![Photoshop](https://img.shields.io/badge/-Photoshop-0F2551?style=flat&logo=adobe-photoshop)
-  ![Illustrator](https://img.shields.io/badge/-Illustrator-602D09?style=flat&logo=adobe-illustrator)
-  ![After Effects](https://img.shields.io/badge/-After_Effects-3B155F?style=flat&logo=adobe-after-effects)
-  ![Premiere Pro](https://img.shields.io/badge/-Premiere_Pro-4D0B44?style=flat&logo=adobe-premiere-pro&logoColor=DD54CA)
+
+
+## Connect with Me 
+
+
+- <a href="https://tjoab.github.io/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Personal_Site_And_Portfolio-DF1F1F?style=flat&logo=google-chrome&logoColor=ffffff"></a>
+- <a href="https://www.linkedin.com/in/tj-ayoub" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=ffffff"></a>
+- <a href="https://www.instagram.com/tjoab/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-c0007a?style=flat&logo=instagram&logoColor=ffffff"></a>
+- <a href="mailto:tj.ayoub@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-34a853?style=flat&logo=gmail&logoColor=ffffff"></a>
+
 
