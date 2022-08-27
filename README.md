@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working in Los Angeles, participating in the RIPS UCLA program and working with AMD 
-- 🎓 Studying applied mathematics, statistics, and computer science
+- 🎓 Studying mathematics, statistics, and computer science
 - 🌱 I’m enthusiastic about data science, machine learning, and deep learning
 - 🔬 Excited about the interface between industry and research 
 - 🛫 Love to travel to new and diverse places
