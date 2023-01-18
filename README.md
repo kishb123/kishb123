@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working in Los Angeles, participating in the RIPS UCLA program and working with AMD 
-- 🎓 Studying mathematics, statistics, and computer science
+- 🎓 Currently studying Statistics and Computer Science at the University of Toronto 
+- 🔭 Have completed my undergraduate degree in mathematics, and applied this knowledge at many different institutions (AMD and the Courant Institute)
 - 🌱 I’m enthusiastic about data science, machine learning, and deep learning
-- 🔬 Excited about the interface between industry and research 
+- 🔬 Excited about the interface between industry, research, and engineering
 - 🛫 Love to travel to new and diverse places
 
 
