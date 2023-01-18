@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 - 🎓 Currently studying Statistics and Computer Science at the University of Toronto 
-- 🔭 Have completed my undergraduate degree in mathematics, and applied this knowledge at many different institutions (AMD and the Courant Institute)
+- 🔭 Have completed my undergraduate degree in mathematics, and interned every summer (e.g. AMD and the Courant Institute)
 - 🌱 I’m enthusiastic about data science, machine learning, and deep learning
 - 🔬 Excited about the interface between industry, research, and engineering
 - 🛫 Love to travel to new and diverse places
