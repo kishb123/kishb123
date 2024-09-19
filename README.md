@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- 📈 AI Algorithmic Trading Quant at RBC Capital Markets
 - 🎓 Currently studying Statistics and Computer Science at the University of Toronto 
 - 🔭 Have completed my undergraduate degree in mathematics, and interned every summer (e.g. AMD and the Courant Institute)
 - 🌱 I’m enthusiastic about data science, machine learning, and deep learning
